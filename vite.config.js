@@ -7,7 +7,9 @@ export default defineConfig({
         laravel({
             input: [
                 'resources/css/app.css',
-                'resources/css/Osnova.css',               
+                'resources/css/Osnova.css', 
+                'resources/css/selected.css',
+                'resources/css/about.css', 
             ],
             refresh: true,
         }),

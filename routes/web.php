@@ -8,5 +8,5 @@ use App\Http\Controllers\HomeController;
 Route::get('/', [HomeController::class, 'index'])->name('glavnaya');
 Route::get('/about', [HomeController::class, 'about'])->name('about');
 Route::get('/selected', [HomeController::class, 'selected'])->name('selected');
-
+Route::get('/catalog', [HomeController::class, 'catalog'])->name('catalog');
 

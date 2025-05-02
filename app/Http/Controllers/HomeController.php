@@ -17,4 +17,8 @@ class HomeController extends Controller
     {
         return view('selected');
     }
+    public function catalog ()
+    {
+        return view('catalog');
+    }
 }

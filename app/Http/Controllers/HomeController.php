@@ -3,6 +3,9 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
+use App\Services\JewelryLogger;
+use App\Services\ActivityTracking;
+
 
 class HomeController extends Controller
 {
@@ -20,5 +23,9 @@ class HomeController extends Controller
     public function catalog ()
     {
         return view('catalog');
+    }
+    public function gifts ()
+    {
+        return view('gifts');
     }
 }

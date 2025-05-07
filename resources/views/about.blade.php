@@ -24,9 +24,8 @@
             class="menu-icon"
           />
           <ul class="nav-links">
-            <li><a href="#" class="nav-link">Изделия</a></li>
-            <li><a href="#" class="nav-link">Филиалы</a></li>
-            <li><a href="../Index/about us.html" class="nav-link">О нас</a></li>
+            <li><a href="{{ url('/') }}" class="nav-link">Изделия</a></li>
+            <li><a href="{{ url('about') }}" class="nav-link">О нас</a></li>
           </ul>
         </nav>
         <img

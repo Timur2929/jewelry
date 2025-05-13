@@ -20,6 +20,7 @@ export default defineConfig({
                 'resources/css/catalog.css', 
                 'resources/js/catalog2.js', 
                 'resources/js/catalog3.js', 
+                'resources/js/catalog.js', 
             ],
             refresh: true,
         }),

@@ -204,7 +204,8 @@ body {
   .cart-wrapper {
     position: absolute;
     display: flex;
-    margin-left: 180px;
+    
+    margin-left: 10px;
   }
   
   .cart-icon {

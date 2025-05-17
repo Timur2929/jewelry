@@ -32,12 +32,6 @@
         />
         <div class="header-actions">
           <div class="search-bar">
-            <span class="search-text">Искать</span>
-            <img
-              src="https://cdn.builder.io/api/v1/image/assets/TEMP/aa9207d8c9211535deb3726d7c25ca158894a34ad43ffd586307d239b8e6d0f4?placeholderIfAbsent=true&apiKey=b05fb0c8128446cd86c05494f402903e"
-              alt="Search icon"
-              class="search-icon"
-            />
           </div>
           <div class="cart-wrapper">
             <img

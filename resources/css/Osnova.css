@@ -424,10 +424,12 @@ a
 }
 .w
 {
-    background-image: url('/public/img/Rectangle\ 3\ \(3\)\ \(1\)\ \(1\).png'); 
+    background-image: url('/public/img/devushka.png'); 
     width: 100%;
     height: 900px;
     background-repeat: no-repeat;
+
+    
 }
 .er 
 {

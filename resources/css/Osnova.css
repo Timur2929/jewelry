@@ -426,11 +426,9 @@ a
 .w
 {
     background-image: url('/public/img/devushka.png'); 
-    width: 100%;
+    width: 100vw;
     height: 900px;
     background-repeat: no-repeat;
-
-    
 }
 .er 
 {
@@ -494,7 +492,7 @@ a
 }
 .poer
 {
-    background-image: url('/public/img/Rectangle\ 25\ \(1\)\ \(1\).png');
+    background-image: url('/public/img/hidedevushka.png');
     background-repeat: no-repeat;
     width: 558px;
     height: 638px;
@@ -556,7 +554,7 @@ a
 }
 .ima4
 {
-    background-image: url('/public/img/Rectangle\ 37.png');
+    background-image: url('/public/img/leazhat.png');
     width: 651px;
     height: 498px;
     background-repeat: no-repeat;
@@ -571,7 +569,7 @@ a
 }
 .ima5
 {
-    background-image: url('/public/img/ABOUT\ US\ \(1\).png');
+    background-image: url('/public/img/aboutsus.png');
     width: 676px;
     height: 746px;
     background-repeat: no-repeat;

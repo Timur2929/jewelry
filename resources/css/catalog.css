@@ -277,13 +277,13 @@
   /* Products grid styles */
   .products-grid {
     width: 100%;
-    max-width: 1250px;
+    max-width: 1050px;
   }
   
   .top-row {
     display: flex;
     margin-top: 89px;
-    width: 1250px;
+    width: 1050px;
     max-width: 100%;
     align-items: stretch;
     gap: 20px;

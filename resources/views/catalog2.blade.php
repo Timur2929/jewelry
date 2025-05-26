@@ -88,50 +88,6 @@
               <p class="product-price">5000 ₽</p>
             </div>
           </article>
-
-          <article class="product-card">
-            <img
-              src="https://www.figma.com/design/2YnCTIj4MxzGZWtEYXEQxJ/Jewelry?node-id=197-732&t=sjlR0qUVti8thwgM-4"
-              alt="Star Bundle Studs"
-              class="product-image"
-            />
-            <div class="product-info">
-              <h2 class="product-name">STAR BUNDLE STUDS</h2>
-              <p class="product-price">12000 ₽</p>
-            </div>
-          </article>
-
-          <article class="product-card">
-            <img
-              src="https://www.figma.com/design/2YnCTIj4MxzGZWtEYXEQxJ/Jewelry?node-id=197-719&t=sjlR0qUVti8thwgM-4"
-              alt="Spherical Drops"
-              class="product-image"
-            />
-            <div class="product-info">
-              <h2 class="product-name">SPHERICAL DROPS</h2>
-              <p class="product-price">9000 ₽</p>
-            </div>
-          </article>
-        </section>
-
-        <section class="products-grid bottom-rows">
-          <div class="bottom-grid-layout">
-            <div class="left-column">
-              <article class="product-card">
-                <img
-                  src="https://www.figma.com/design/2YnCTIj4MxzGZWtEYXEQxJ/Jewelry?node-id=197-700&t=sjlR0qUVti8thwgM-4"
-                  alt="Chained Studs"
-                  class="product-image"
-                />
-                <div class="product-info">
-                  <h2 class="product-name">CHAINED STUDS</h2>
-                  <p class="product-price">5000 ₽</p>
-                </div>
-              </article>
-            </div>
-              </div>
-            </div>
-          </div>
         </section>
       </main>
 

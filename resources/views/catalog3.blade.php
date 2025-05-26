@@ -88,36 +88,6 @@
               <p class="product-price">19000 ₽</p>
             </div>
           </article>
-
-          <article class="product-card">
-            <img
-              src="https://cdn.builder.io/api/v1/image/assets/TEMP/9df17fead6eef7dc9fdce120272d5778f0c0bc4cb4dc27494fabd6ea22cfb57d?placeholderIfAbsent=true&apiKey=b05fb0c8128446cd86c05494f402903e"
-              alt="Leaf Pendant"
-              class="product-image"
-            />
-            <div class="product-info">
-              <h2 class="product-name">LEAF PENDANT</h2>
-              <p class="product-price">5000 ₽</p>
-            </div>
-          </article>
-
-          <article class="product-card">
-            <img
-              src="https://cdn.builder.io/api/v1/image/assets/TEMP/d2f133610433fd2d0c5f1bd56b2b4030d702be4b1168df96a53e2b3084234c71?placeholderIfAbsent=true&apiKey=b05fb0c8128446cd86c05494f402903e"
-              alt="Ruby Pendant"
-              class="product-image"
-            />
-            <div class="product-info">
-              <h2 class="product-name">RUBY PENDANT</h2>
-              <p class="product-price">8000 ₽</p>
-            </div>
-          </article>
-        </section>
-
-      
-              </div>
-            </div>
-          </div>
         </section>
       </main>
 

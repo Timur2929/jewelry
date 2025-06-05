@@ -55,37 +55,37 @@
         <section class="products-grid top-row">
           <article class="product-card">
             <img
-              src="https://cdn.builder.io/api/v1/image/assets/TEMP/3165830524ac0ca0c00b700bdbdec5aa32059ec8cf36edcbc4052507538f91fd?placeholderIfAbsent=true&apiKey=b05fb0c8128446cd86c05494f402903e"
+              src=""
               alt="Initial Pendant"
               class="product-image"
             />
             <div class="product-info">
-              <h2 class="product-name">INITIAL PENDANT</h2>
-              <p class="product-price">12000 ₽</p>
+              <h2 class="product-name">CHAINED CUFF</h2>
+              <p class="product-price">13000 ₽</p>
             </div>
           </article>
 
           <article class="product-card">
             <img
-              src="https://cdn.builder.io/api/v1/image/assets/TEMP/f6637d2e4fff3a899267308eea737e45df8b41d9f176b08ff6331168131af2fc?placeholderIfAbsent=true&apiKey=b05fb0c8128446cd86c05494f402903e"
+              src=""
               alt="Heart Hides Scars"
               class="product-image"
             />
             <div class="product-info">
-              <h2 class="product-name">HEART HIDES SCARS</h2>
-              <p class="product-price">2000 ₽</p>
+              <h2 class="product-name">THIN CHAIN</h2>
+              <p class="product-price">9000 ₽</p>
             </div>
           </article>
 
           <article class="product-card">
             <img
-              src="https://cdn.builder.io/api/v1/image/assets/TEMP/9b3334306718585e2b6a7dad8fd3bb896d4454d12c6b26c0a929c57073f334ce?placeholderIfAbsent=true&apiKey=b05fb0c8128446cd86c05494f402903e"
+              src=""
               alt="Diamond Choker"
               class="product-image"
             />
             <div class="product-info">
-              <h2 class="product-name">DIAMOND CHOKER</h2>
-              <p class="product-price">19000 ₽</p>
+              <h2 class="product-name">LEAFY CHAIN</h2>
+              <p class="product-price">6000 ₽</p>
             </div>
           </article>
         </section>

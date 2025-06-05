@@ -2,46 +2,33 @@
 const products = [
     {
       id: 1,
-      name: "INITIAL PENDANT",
-      price: 12000,
-      category: "pendant",
+      name: "CHAINED CUFF",
+      price: 13000,
+      category: "cuff",
       image:
-        "https://cdn.builder.io/api/v1/image/assets/TEMP/3165830524ac0ca0c00b700bdbdec5aa32059ec8cf36edcbc4052507538f91fd?placeholderIfAbsent=true&apiKey=b05fb0c8128446cd86c05494f402903e",
+        "",
     },
     {
       id: 2,
-      name: "HEART HIDES SCARS",
-      price: 2000,
-      category: "pendant",
+      name: "THIN CHAIN",
+      price: 9000,
+      category: "chain",
       image:
-        "https://cdn.builder.io/api/v1/image/assets/TEMP/f6637d2e4fff3a899267308eea737e45df8b41d9f176b08ff6331168131af2fc?placeholderIfAbsent=true&apiKey=b05fb0c8128446cd86c05494f402903e",
+        "",
     },
     {
       id: 3,
-      name: "DIAMOND CHOKER",
-      price: 19000,
-      category: "choker",
+      name: "LEAFY CHAIN",
+      price: 6000,
+      category: "chain",
       image:
-        "https://cdn.builder.io/api/v1/image/assets/TEMP/9b3334306718585e2b6a7dad8fd3bb896d4454d12c6b26c0a929c57073f334ce?placeholderIfAbsent=true&apiKey=b05fb0c8128446cd86c05494f402903e",
+        "",
     },
-    {
-      id: 4,
-      name: "LEAF PENDANT",
-      price: 5000,
-      category: "pendant",
-      image:
-        "https://cdn.builder.io/api/v1/image/assets/TEMP/9df17fead6eef7dc9fdce120272d5778f0c0bc4cb4dc27494fabd6ea22cfb57d?placeholderIfAbsent=true&apiKey=b05fb0c8128446cd86c05494f402903e",
-    },
-    {
-      id: 5,
-      name: "RUBY PENDANT",
-      price: 8000,
-      category: "pendant",
-      image:
-        "https://cdn.builder.io/api/v1/image/assets/TEMP/d2f133610433fd2d0c5f1bd56b2b4030d702be4b1168df96a53e2b3084234c71?placeholderIfAbsent=true&apiKey=b05fb0c8128446cd86c05494f402903e",
-    },
+    
   ];
   
+
+
   // Shopping cart
   let cart = [];
   let isCartOpen = false;

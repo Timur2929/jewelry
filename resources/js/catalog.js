@@ -24,64 +24,11 @@ const products = [
       image:
         "https://cdn.builder.io/api/v1/image/assets/TEMP/9b3334306718585e2b6a7dad8fd3bb896d4454d12c6b26c0a929c57073f334ce?placeholderIfAbsent=true&apiKey=b05fb0c8128446cd86c05494f402903e",
     },
-    {
-      id: 4,
-      name: "LEAF PENDANT",
-      price: 5000,
-      category: "pendant",
-      image:
-        "https://cdn.builder.io/api/v1/image/assets/TEMP/9df17fead6eef7dc9fdce120272d5778f0c0bc4cb4dc27494fabd6ea22cfb57d?placeholderIfAbsent=true&apiKey=b05fb0c8128446cd86c05494f402903e",
-    },
-    {
-      id: 5,
-      name: "RUBY PENDANT",
-      price: 8000,
-      category: "pendant",
-      image:
-        "https://cdn.builder.io/api/v1/image/assets/TEMP/d2f133610433fd2d0c5f1bd56b2b4030d702be4b1168df96a53e2b3084234c71?placeholderIfAbsent=true&apiKey=b05fb0c8128446cd86c05494f402903e",
-    },
-    {
-      id: 6,
-      name: "OPAL HEART",
-      price: 10000,
-      category: "heart",
-      image:
-        "https://cdn.builder.io/api/v1/image/assets/TEMP/1c5832e45b0232037ae2abbf51e91e9178b635c6673609d4143e5b9e4fae36d2?placeholderIfAbsent=true&apiKey=b05fb0c8128446cd86c05494f402903e",
-    },
-    {
-      id: 7,
-      name: "INTERLOCKING GOLD",
-      price: 8000,
-      category: "gold",
-      image:
-        "https://cdn.builder.io/api/v1/image/assets/TEMP/e76712925c9d6c6d923d5a432df760248ee88a10a61e7778a905b31d221307cf?placeholderIfAbsent=true&apiKey=b05fb0c8128446cd86c05494f402903e",
-    },
-    {
-      id: 8,
-      name: "LARIAT",
-      price: 28000,
-      category: "lariat",
-      image:
-        "https://cdn.builder.io/api/v1/image/assets/TEMP/1ab8b41c9a256c95646205173697cfc576480980678f8dfbcd25fc84048ec848?placeholderIfAbsent=true&apiKey=b05fb0c8128446cd86c05494f402903e",
-    },
-    {
-      id: 9,
-      name: "TAG PENDANT",
-      price: 22000,
-      category: "pendant",
-      image:
-        "https://cdn.builder.io/api/v1/image/assets/TEMP/52526862101efcc39bfb13c4078a8ea73ad11f86d6b8385428f9e6743d54a9ee?placeholderIfAbsent=true&apiKey=b05fb0c8128446cd86c05494f402903e",
-    },
-    {
-      id: 10,
-      name: "FLORA PENDANT",
-      price: 3000,
-      category: "pendant",
-      image:
-        "https://cdn.builder.io/api/v1/image/assets/TEMP/6069d6ed444044f5565b015a5e50ace53a11e1fd70d7d07a4ceda3575a4a01bd?placeholderIfAbsent=true&apiKey=b05fb0c8128446cd86c05494f402903e",
-    },
   ];
   
+
+
+
   // Shopping cart
   let cart = [];
   let isCartOpen = false;

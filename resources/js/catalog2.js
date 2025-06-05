@@ -24,32 +24,17 @@ const products = [
       image:
         "https://www.figma.com/design/2YnCTIj4MxzGZWtEYXEQxJ/Jewelry?node-id=197-745&t=sjlR0qUVti8thwgM-4",
     },
-    {
-      id: 40,
-      name: "STAR BUNDLE STUDS",
-      price: 12000,
-      category: "studs",
-      image:
-        "https://www.figma.com/design/2YnCTIj4MxzGZWtEYXEQxJ/Jewelry?node-id=197-732&t=sjlR0qUVti8thwgM-4",
-    },
-    {
-      id: 50,
-      name: "SPHERICAL DROPS",
-      price: 9000,
-      category: "drops",
-      image:
-        "https://www.figma.com/design/2YnCTIj4MxzGZWtEYXEQxJ/Jewelry?node-id=197-719&t=sjlR0qUVti8thwgM-4",
-    },
-    {
-      id: 60,
-      name: "CHAINED STUDS",
-      price: 5000,
-      category: "studs",
-      image:
-        "https://www.figma.com/design/2YnCTIj4MxzGZWtEYXEQxJ/Jewelry?node-id=197-700&t=sjlR0qUVti8thwgM-4",
-    },
+    
   ];
   
+
+
+
+
+
+
+
+
   // Shopping cart
   let cart = [];
   let isCartOpen = false;
